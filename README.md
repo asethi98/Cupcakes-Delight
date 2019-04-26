@@ -1,6 +1,8 @@
 # Cupcakes-Delight
 This project features an e-commerce website for a fictitious cupcake business, called Cupcakes Delight. With a mobile-friendly interface, it allows users to buy premade cupcakes or create their own. 
 
+Link: http://codd.cs.gsu.edu/~asethi2/project4/index.html
+
 Languages/Tools Used: HTML, CSS, PHP, SQL, JavaScript
 
 Features: 
